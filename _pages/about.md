@@ -20,7 +20,7 @@ My primary research interests include:
 	•	Machine Learning
 	•	Computer Vision
 	•	Image Analysis
- 	•	Object Detection
+	•	Object Detection
 	•	HRI
  
 
