@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Machine learning | Computer vision"
   location         : "Shiraz, Iran"
-  employer         : ""
+  employer         : "Shahrood University of Technology"
   uri              : # URL
   email            : "pouyasohnej@gmail.com" 
 
@@ -39,7 +39,6 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -48,13 +47,13 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/pouya-sohrabinejad-98652124b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVrdP2bmLTg671bEks686XA%3D%3D"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : # URL
+  telegram         : "qpouya"
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
