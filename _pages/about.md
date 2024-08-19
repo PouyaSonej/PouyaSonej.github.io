@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Pouya Sohrabinejad, and I have just graduated from Artificial intelligence at Shahrood University of Technology. My research focuses on “computer vision and machine learning.
+I received my MS in Artificial Intelligence from Shahrood University of Technology in 2023. I also hold a bachelor’s degree from Zand Institute of Higher Education, which I completed in 2021. Additionally, I have multiple hardware degrees with grade A from the Iran Technical and Vocational Organization.
 
 **About Me**
 
-I care a lot about my discipline and love to explore and learn new things. I push myself to watch different courses for at least one hour daily on LinkedIn, Coursera, YouTube, and other platforms. I also dedicate one hour each day to learning new languages (Japanese at the moment). I believe these activities help me keep my brain active and my mind sharp.
+I care a lot about my discipline and love to explore and learn new things. I push myself to watch different courses for at least one hour daily on LinkedIn, Coursera, YouTube, and other platforms. I also dedicate one hour each day to learning new languages (Japanese at the moment) and one hour to working on different projects and coding. I believe these activities help me keep my brain active and my mind sharp.
 
 **Research Interests**
 
