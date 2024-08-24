@@ -8,14 +8,10 @@ date: 2023-02-01
 location: "Shiraz, Iran"
 ---
 
-You can access the code and images provided by Dr. hasanpor's in his Digital Image Processing book in Python.
+We have converted MATLAB code and algorithms from Dr. Hasanpour’s Digital Image Processing book into Python. You can access the code and images in this GitHub repository.
 
-Link to the github repository:
+Link to the gihub repository
 
 [Link](https://github.com/PouyaSonej/Python_ImageProcessing.git)
 
-Heading 2
-======
-
-Heading 3
-======
+![images](/images/Project2.png)
