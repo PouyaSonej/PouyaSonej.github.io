@@ -13,7 +13,7 @@ I received my MS in Artificial Intelligence from Shahrood University of Technolo
 
 **About Me**
 
-I care a lot about my discipline and love to explore and learn new things. I push myself to watch different courses for at least one hour daily on LinkedIn, Coursera, YouTube, and other platforms. Additionally, I spend an hour each day learning new languages—currently focusing on Japanese—and another hour working on various projects and coding. I believe these activities keep my mind sharp and my skills up-to-date.
+I care a lot about my discipline and love to explore and learn new things. I push myself to watch and explore different courses for at least one hour daily on LinkedIn, Coursera, YouTube, and other platforms. Additionally, I spend an hour each day learning new languages—currently focusing on Japanese—and another hour working on various projects and coding. I believe these activities keep my mind sharp and my skills up-to-date.
 
 **Research Interests**
 
