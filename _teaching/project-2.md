@@ -1,17 +1,18 @@
 ---
-title: "Teaching experience 2"
+title: "Digital image processing, Dr. Hasanpour"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+type: "Python"
+permalink: /teaching/project-2
 venue: "Shahrood University of Tecchnology"
-date: 2015-01-01
-location: "City, Country"
+date: 2023-02-01
+location: "Shiraz, Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+You can access the code and images provided by Dr. hasanpor's in his Digital Image Processing book in Python.
 
-Heading 1
-======
+Link to the github repository:
+
+[Link](https://github.com/PouyaSonej/Python_ImageProcessing.git)
 
 Heading 2
 ======
