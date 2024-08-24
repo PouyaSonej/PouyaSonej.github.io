@@ -1,7 +1,7 @@
 ---
 title: "Digital image processing, Dr. Hasanpour"
 collection: teaching
-type: "Python"
+type: "Image Processing"
 permalink: /teaching/project-2
 venue: "Shahrood University of Tecchnology"
 date: 2023-02-01
