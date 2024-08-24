@@ -3,7 +3,7 @@ title: "Cifar10"
 collection: teaching
 type: "Machine Learning"
 permalink: /teaching/project-4
-venue: "Shahrood University of Tecchnology"
+venue: "Automated Classification"
 date: 2022-04-01
 location: "Shiraz, Iran"
 ---
