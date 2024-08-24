@@ -10,7 +10,7 @@ location: "Shiraz, Iran"
 
 I have converted MATLAB code and algorithms from Dr. Gonzalez’s Digital Image Processing book into Python. You can access the code and images in this GitHub repository.
 
-""Link to the gihub repository:""
+**Link to the gihub repository:**
 
 [Link](https://github.com/PouyaSonej/Image-processing_GonalezBook.git)
 
