@@ -3,7 +3,7 @@ title: "Digital image processing, Dr. Gonzalez"
 collection: teaching
 type: "Image Processing"
 permalink: /teaching/project-1
-venue: "Shahrood University of Tecchnology"
+venue: "Course"
 date: 2023-01-01
 location: "Shiraz, Iran"
 ---
