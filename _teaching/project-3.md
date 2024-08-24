@@ -2,9 +2,9 @@
 title: "MNIST classifier"
 collection: teaching
 type: "Machine Learning"
-permalink: /teaching/project-2
+permalink: /teaching/project-3
 venue: "Shahrood University of Tecchnology"
-date: 2023-03-01
+date: 2022-03-01
 location: "Shiraz, Iran"
 ---
 
