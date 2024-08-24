@@ -2,9 +2,9 @@
 title: "Chatbot"
 collection: teaching
 type: "Natural Language Processing"
-permalink: /teaching/project-2
+permalink: /teaching/project-5
 venue: "Shahrood University of Tecchnology"
-date: 2023-04-01
+date: 2023-05-01
 location: "Shiraz, Iran"
 ---
 
