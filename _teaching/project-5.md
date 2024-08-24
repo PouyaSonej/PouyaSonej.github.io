@@ -3,7 +3,7 @@ title: "Chatbot"
 collection: teaching
 type: "Natural Language Processing"
 permalink: /teaching/project-5
-venue: "Shahrood University of Tecchnology"
+venue: "NLP"
 date: 2023-05-01
 location: "Shiraz, Iran"
 ---
