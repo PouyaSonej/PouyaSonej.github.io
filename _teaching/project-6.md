@@ -3,12 +3,12 @@ title: "Natural language processing"
 collection: teaching
 type: "Natural Language Processing"
 permalink: /teaching/project-6
-venue: "Shahrood University of Tecchnology"
+venue: "Course"
 date: 2023-06-01
 location: "Shiraz, Iran"
 ---
 
-Natural language processing essientials and basics in python.
+Natural language processing essientials and basics in python and linux.
 
 You can access the code and images in this GitHub repository.
 
