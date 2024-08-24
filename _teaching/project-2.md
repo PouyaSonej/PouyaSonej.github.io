@@ -3,7 +3,7 @@ title: "Digital image processing, Dr. Hasanpour"
 collection: teaching
 type: "Image Processing"
 permalink: /teaching/project-2
-venue: "Shahrood University of Tecchnology"
+venue: "Course"
 date: 2023-02-01
 location: "Shiraz, Iran"
 ---
