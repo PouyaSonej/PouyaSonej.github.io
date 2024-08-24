@@ -15,4 +15,4 @@ I have converted and provided the Python code for the book by Dr. Gonzalez, Digi
 
 [Link](https://github.com/PouyaSonej/Image-processing_GonalezBook.git)
 
-<img src="images/Project1.png" alt="Description">
+![image](images/Project1.png)
