@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a passionate researcher in the field of artificial intelligence (AI). My research focuses on advancing computer vision through machine learning, with applications in image analysis, object detection, and environmental monitoring. I am particularly interested in enhancing the interpretability and robustness of neural networks.
+I am a passionate researcher in the field of artificial intelligence (AI). My research focuses on advancing computer vision through machine learning, with applications in image analysis, object detection, and environmental monitoring. 
 
 I received my MS in Artificial Intelligence from Shahrood University of Technology in 2023. I also hold a bachelor’s degree in Computer Engineering with a focus on software, which I completed at Zand Institute of Higher Education in 2021. Additionally, I have multiple hardware certifications with grade A from the Iran Technical and Vocational Organization.
 
