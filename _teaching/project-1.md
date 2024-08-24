@@ -15,5 +15,5 @@ I have converted and provided the Python code for the book by Dr. Gonzalez, Digi
 
 [Link](https://github.com/PouyaSonej/Image-processing_GonalezBook.git)
 
-![image](https://github.com/PouyaSonej/PouyaSonej.github.io/blob/274576b97fb14de002051e8102990e9bfc5f20f5/images/Project1.png)
+![image](images/Project1.png)
 
