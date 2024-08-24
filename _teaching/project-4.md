@@ -2,9 +2,9 @@
 title: "Cifar10"
 collection: teaching
 type: "Machine Learning"
-permalink: /teaching/project-6
+permalink: /teaching/project-4
 venue: "Shahrood University of Tecchnology"
-date: 2022-05-01
+date: 2022-04-01
 location: "Shiraz, Iran"
 ---
 
