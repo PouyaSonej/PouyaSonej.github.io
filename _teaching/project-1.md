@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Shiraz, Iran"
 ---
 
-You can access the code and images provided by Dr. Gonzalez in his Digital Image Processing book in Python.
+I have converted and provided the Python code for the book by Dr. Gonzalez, Digital Image Processing. You can access the code and images in this GitHub repository.
 
 
 **Link to the gihub repository**
