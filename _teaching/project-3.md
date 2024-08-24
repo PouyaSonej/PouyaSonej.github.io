@@ -3,7 +3,7 @@ title: "MNIST classifier"
 collection: teaching
 type: "Machine Learning"
 permalink: /teaching/project-3
-venue: "Shahrood University of Tecchnology"
+venue: "Automated Classification"
 date: 2022-03-01
 location: "Shiraz, Iran"
 ---
