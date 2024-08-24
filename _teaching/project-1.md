@@ -8,7 +8,9 @@ date: 2023-01-01
 location: "Shiraz, Iran"
 ---
 
-I have converted MATLAB code and algorithms from Dr. Gonzalez’s Digital Image Processing book into Python. You can access the code and images in this GitHub repository.
+I have converted MATLAB code and algorithms from Dr. Gonzalez’s Digital Image Processing book into Python. 
+
+You can access the code and images in this GitHub repository.
 
 **Link to the gihub repository:**
 
