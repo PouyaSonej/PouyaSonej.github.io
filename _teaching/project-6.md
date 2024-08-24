@@ -1,7 +1,7 @@
 ---
-title: "Digital image processing, Dr. Gonzalez"
+title: "Natural language processing"
 collection: teaching
-type: "Image Processing"
+type: "Natural Language Processing"
 permalink: /teaching/project-6
 venue: "Shahrood University of Tecchnology"
 date: 2023-06-01
