@@ -15,5 +15,5 @@ You can access the code and images provided by Dr. Gonzalez in his Digital Image
 
 [Link](https://github.com/PouyaSonej/Image-processing_GonalezBook.git)
 
-![image]()
+![image](https://github.com/PouyaSonej/PouyaSonej.github.io/blob/274576b97fb14de002051e8102990e9bfc5f20f5/images/Project1.png)
 
