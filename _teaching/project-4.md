@@ -1,7 +1,7 @@
 ---
-title: "Cifar10"
+title: "Chatbot"
 collection: teaching
-type: "Machine Learning"
+type: "Natural Language Processing"
 permalink: /teaching/project-2
 venue: "Shahrood University of Tecchnology"
 date: 2023-04-01
