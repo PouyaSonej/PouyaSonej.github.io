@@ -8,7 +8,7 @@ date: 2024-04-02
 location: "Shiraz, Iran"
 ---
 
-his code gets the english subtitle and automatically translates it into given language.
+This code gets the english subtitle and automatically translates it into given language.
 
 Numbers and spaces in this code has been ignored because of potentioal errors.
 
