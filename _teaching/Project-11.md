@@ -2,7 +2,7 @@
 title: "Subtitle translator"
 collection: teaching
 type: "Natural Language Processing"
-permalink: /teaching/project-9
+permalink: /teaching/project-11
 venue: "NLP"
 date: 2024-04-02
 location: "Shiraz, Iran"
