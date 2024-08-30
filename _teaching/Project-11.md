@@ -4,7 +4,7 @@ collection: teaching
 type: "Natural Language Processing"
 permalink: /teaching/project-9
 venue: "NLP"
-date: 2024-04-01
+date: 2024-04-02
 location: "Shiraz, Iran"
 ---
 
