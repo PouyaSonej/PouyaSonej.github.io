@@ -17,5 +17,4 @@ I used balloons dataset for training. This dataset also has been used by faceboo
 
 [Link](https://github.com/PouyaSonej/InstanceSegmentation.git)
 
-![image](https://github.com/PouyaSonej/InstanceSegmentation/blob/8b182711fac3a031e2ce2a52995530388d968623/InstanceSegmentation.png)
-
+![image](/images/Project12.png)
