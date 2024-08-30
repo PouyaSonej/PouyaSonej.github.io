@@ -3,7 +3,7 @@ title: "Soft exudates segmentation"
 collection: teaching
 type: "Computer Vision"
 permalink: /teaching/project-7
-venue: "Object Detection"
+venue: "Segmentation"
 date: 2024-01-01
 location: "Shiraz, Iran"
 ---
