@@ -12,7 +12,7 @@ I used "CVZONE" for firstly detecting and bordering face, then used meshdetector
 
 ![image](/images/output.jpg)
 
-![gif](/images/output2.gif)
+![gif](/images/output.gif)
 
 
 By detecting face features, I made a circle used cv2 and placed it at the center of each eye.
@@ -20,7 +20,7 @@ This project is available for both video and image. This code can be used for re
 
 ![image2](/images/output2.jpg)
 
-![gif2](/images/output.gif)
+![gif2](/images/output2.gif)
 
 **Link to the gihub repository:**
 
