@@ -8,7 +8,7 @@ date: 2024-04-04
 location: "Shiraz, Iran"
 ---
 
-In this project, I used a kaggle dataset on U-net.
+This model will take an image and segment person, cloth, accessories, hat, etc. I used a kaggle dataset on U-net.
 
 
 **Link to the gihub repository:**
