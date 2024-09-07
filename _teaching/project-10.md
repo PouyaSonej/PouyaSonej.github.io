@@ -8,11 +8,9 @@ date: 2024-04-01
 location: "Shiraz, Iran"
 ---
 
-This project is based on standford's computer vision course.
-KITTI is a dataset for autonomous driving developed by the Karlsruhe Institute of Technology and Toyota Technological Institute at Chicago. It is a collection of images and LIDAR data used in computer vision research, such as stereo vision, optical flow, visual odometry, 3D object detection, and 3D tracking.
-In this project, for semantic segmentation I trained a U-net with imagenet weights on Kittie dataset.
+This project, based on Stanford’s computer vision course, utilizes the KITTI dataset—a collection of images and LIDAR data for autonomous driving research.
 
-You can access the code and images in this GitHub repository.
+The focus is on semantic segmentation, where a U-Net model pre-trained on ImageNet is fine-tuned on the KITTI dataset. This approach aims to enhance the model’s ability to interpret complex driving scenes. The code and images are available in this GitHub repository.
 
 **Link to the gihub repository:**
 
