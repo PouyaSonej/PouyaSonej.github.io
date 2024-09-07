@@ -1,5 +1,5 @@
 ---
-title: "Cloth segmentation"
+title: "Image Segmentation for Person, Clothing, and Accessories Using U-Net"
 collection: teaching
 type: "Computer Vision"
 permalink: /teaching/project-13
@@ -8,8 +8,9 @@ date: 2024-04-04
 location: "Shiraz, Iran"
 ---
 
-This model will take an image and segment person, cloth, accessories, hat, etc. I used a kaggle dataset on U-net.
+This project involves a U-Net model trained on a Kaggle dataset to segment various elements in an image, including persons, clothing, accessories, hats, and more.
 
+The model demonstrates pixel-wise segmentation, effectively identifying and labeling different objects within an image. Explore the code and results in the GitHub repository.
 
 **Link to the gihub repository:**
 
