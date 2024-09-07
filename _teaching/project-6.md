@@ -8,9 +8,9 @@ date: 2023-06-01
 location: "Shiraz, Iran"
 ---
 
-Natural language processing essientials and basics in python and linux.
+This project covers the foundational concepts and essential techniques in natural language processing (NLP) using Python and Linux. 
 
-You can access the code and images in this GitHub repository.
+It introduces key NLP methods, providing a hands-on approach to text processing, tokenization, and basic language models. The code and visual examples are available in the GitHub repository.
 
 **Link to the gihub repository:**
 
