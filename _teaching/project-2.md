@@ -8,9 +8,7 @@ date: 2023-02-01
 location: "Shiraz, Iran"
 ---
 
-We have converted MATLAB code and algorithms from Dr. Hasanpour’s Digital Image Processing book into Python. 
-
-You can access the code and images in this GitHub repository.
+This project features the conversion of MATLAB code and algorithms from Dr. Hasanpour’s “Digital Image Processing” book into Python. It includes Python implementations of a variety of image processing techniques, providing a valuable resource for those learning or working with image processing. The repository contains code and example images that demonstrate the practical applications of these algorithms.
 
 **Link to the gihub repository:**
 
