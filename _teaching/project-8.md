@@ -8,10 +8,9 @@ date: 2024-02-01
 location: "Shiraz, Iran"
 ---
 
-In this project, I have used stanford's car dataset and trained multiple models.
-(10 resnet50s with different parameters and preprocessing, inceptionV2)
+This project involves training multiple models on Stanford’s car dataset to classify various car types.
 
-You can access the code and images in this GitHub repository.
+The models include 10 ResNet50s with different parameters and preprocessing techniques, as well as an InceptionV2 model. The project explores the impact of different architectures and configurations on performance. The code and images are available in this GitHub repository.
 
 **Link to the gihub repository:**
 
