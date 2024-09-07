@@ -8,10 +8,9 @@ date: 2024-01-01
 location: "Shiraz, Iran"
 ---
 
-In this project, I used a dataset from kaggle which contains original fundus images and their ground truthes. 
-This dataset has been trained on a pretrained U-net in 20 epoches.
+This project utilizes a dataset from Kaggle containing original fundus images and their corresponding ground truth annotations.
 
-You can access the code and images in this GitHub repository.
+The dataset is trained on a pretrained U-Net model over 20 epochs for medical image segmentation. The project demonstrates deep learning applied to medical imaging, specifically for segmenting key features in retinal images. Explore the code and images in this GitHub repository.
 
 **Link to the gihub repository:**
 
