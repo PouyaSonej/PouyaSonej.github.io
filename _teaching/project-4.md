@@ -8,9 +8,7 @@ date: 2022-04-01
 location: "Shiraz, Iran"
 ---
 
-Cifar10 classification using Multi-layer perceptron and regularization.
-
-You can access the code and images in this GitHub repository.
+This project showcases a classification model for the CIFAR-10 dataset, using a Multi-layer Perceptron (MLP) with regularization techniques to enhance performance and prevent overfitting. It provides an example of deep learning applied to image recognition tasks with intermediate-level neural network structures. Explore the code and visualizations in this GitHub repository.
 
 **Link to the gihub repository:**
 
