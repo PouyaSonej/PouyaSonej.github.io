@@ -8,7 +8,9 @@ date: 2024-04-05
 location: "Shiraz, Iran"
 ---
 
-I used "CVZONE" for firstly detecting and bordering face, then used meshdetector as below(maximum faces = 1):
+In this project, CVZONE is used to detect and draw borders around a face, followed by the application of a mesh detector with a limit of detecting one face (maximum faces = 1).
+
+This setup demonstrates a combination of face detection and facial mesh analysis for precise facial feature mapping. The code is available for exploration in this GitHub repository.
 
 ![image](/images/output.jpg)
 
