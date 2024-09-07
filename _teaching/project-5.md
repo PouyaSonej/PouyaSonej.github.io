@@ -8,9 +8,9 @@ date: 2023-05-01
 location: "Shiraz, Iran"
 ---
 
-An end-to-end chatbot that provides a set of specific answers to predefined questions.
+This project involves developing a chatbot that delivers specific answers to a predefined set of questions. 
 
-You can access the code and images in this GitHub repository.
+It demonstrates the implementation of an end-to-end conversational agent, showcasing techniques in natural language processing and chatbot design. The code and accompanying images can be accessed through this GitHub repository.
 
 **Link to the gihub repository:**
 
