@@ -8,9 +8,9 @@ date: 2024-04-03
 location: "Shiraz, Iran"
 ---
 
-In this code, a custom dataset has been trained on facebook research team's detectron2: mask R-CNN. 
+This project involves training a custom dataset using Facebook Research’s Detectron2 framework, specifically with the Mask R-CNN model. 
 
-I used balloons dataset for training. This dataset also has been used by facebook research team when they introduced detectron2.
+The dataset used for training is the balloons dataset, which was also employed by Facebook Research when introducing Detectron2. The project demonstrates how to adapt and train Detectron2 for custom object detection tasks. The code and images are available in this GitHub repository.
 
 
 **Link to the gihub repository:**
