@@ -8,9 +8,9 @@ date: 2024-03-01
 location: "Shiraz, Iran"
 ---
 
-In this project, I have trained my pretrained RetinaNet on NWPU-VHR-10 dataset.
+This project involves training a pretrained RetinaNet model on the NWPU-VHR-10 dataset, which contains high-resolution aerial images for object detection tasks.
 
-You can access the code and images in this GitHub repository.
+The project demonstrates the application of RetinaNet for detecting objects in aerial images, showcasing its effectiveness in handling imbalanced datasets. The code and images can be accessed in this GitHub repository.
 
 **Link to the gihub repository:**
 
