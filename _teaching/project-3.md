@@ -8,9 +8,7 @@ date: 2022-03-01
 location: "Shiraz, Iran"
 ---
 
-mnist classification using one dense layer.
-
-You can access the code and images in this GitHub repository.
+This project implements a simple neural network for classifying MNIST digits using only one dense layer. It serves as an introductory example for understanding basic deep learning techniques and neural network structures. The code and visual outputs are available for exploration in this GitHub repository.
 
 **Link to the gihub repository:**
 
