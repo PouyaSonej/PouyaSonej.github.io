@@ -8,11 +8,11 @@ date: 2024-04-02
 location: "Shiraz, Iran"
 ---
 
-This code gets the english subtitle and automatically translates it into given language.
+This code automatically translates English subtitles into a specified target language.
 
-Numbers and spaces in this code has been ignored because of potentioal errors.
+Note that numbers and spaces are excluded from translation to avoid potential errors. 
 
-For changing the output language, change destination to your desired language. You can find it as "dest".
+The code provides a convenient way to translate subtitles for multilingual accessibility. To change the output language, modify the dest parameter to your desired language code.
 
 
 **Link to the gihub repository:**
