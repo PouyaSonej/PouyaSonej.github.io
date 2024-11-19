@@ -31,4 +31,4 @@ Note 2: For annotation, use Pascal VOC format. Otherwise, you need to modify a c
 
 **Link to the gihub repository:**
 
-[Link](https://github.com/PouyaSonej/RealTime_SignLanguage_Detection.git)
+[Link](https://github.com/PouyaSonej/Real_Time_Sign_Language_Detection.git)
