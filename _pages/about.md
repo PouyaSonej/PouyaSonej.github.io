@@ -34,6 +34,8 @@ In this publication, I have introduced two novel filters using mathematical morp
 
 After applying my filters and accompany it with a preprocessing pipeline, I have combined and introduced a method for detecting OD and used V-GAN for detecting BV. Finally, I have explored all automated classification models from traditional to the state-of-art. 
 
+news: At the moment, we are writing our experiments. We plan to submit this publication on the last week of December.
+
 **Contact**
 
 I am always open to collaborations, discussions, and new opportunities. Feel free to reach out to me via email: pouyasohnej@gmail.com or connect with me on LinkedIn or Github.
