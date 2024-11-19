@@ -28,7 +28,11 @@ My primary research interests include:
 
 **Publications and Projects**
 
-...
+*Hybrid Diabetic Retinopathy Detection and Feature Extraction*
+
+In this publication, I have introduced two novel filters using mathematical morphology.
+
+After applying my filters and accompany it with a preprocessing pipeline, I have combined and introduced a method for detecting OD and used V-GAN for detecting BV. Finally, I have explored all automated classification models from traditional to the state-of-art. 
 
 **Contact**
 
