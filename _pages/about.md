@@ -32,7 +32,7 @@ My primary research interests include:
 
 In this publication, I have introduced two novel filters using mathematical morphology.
 
-After applying my filters and accompany it with a preprocessing pipeline, I have combined and introduced a method for detecting OD and used V-GAN for detecting BV. Finally, I have explored all automated classification models from traditional to the state-of-art. 
+After applying my filters and accompany it with a preprocessing pipeline, I have combined two traditional method and introduced a more advanced one for detecting OD and used V-GAN for detecting BV. Finally, I have explored all automated classification models from traditional to the state-of-art. 
 
 news: At the moment, we are writing our experiments. We plan to submit this publication on the last week of December.
 
